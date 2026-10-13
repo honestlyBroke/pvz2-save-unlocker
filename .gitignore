@@ -1,0 +1,6 @@
+save_backups/
+*.dat
+*.bak
+*.obb
+*.apk
+__pycache__/
